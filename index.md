@@ -36,7 +36,9 @@ The Observatory serves as a platform for collaboration, knowledge dissemination,
 
 ## People
 
-VOEF is an open and collaborative research initiative. Colleagues interested in contributing to or collaborating with the Observatory are warmly welcome to join us. The researchers listed below constitute the initial members of the Observatory:
+VOEF is an open and collaborative research initiative. Colleagues interested in contributing to or collaborating with the Observatory are warmly welcome to join us. 
+
+The researchers listed below constitute the initial members of the Observatory:
 
 - Le Van Cuong
 - Nguyen Van Phu
