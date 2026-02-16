@@ -1,5 +1,7 @@
 ---
 layout: page
 title: Selected Publications
-permalink: /publications/
+permalink: /projects/
 ---
+
+*Under construction*
