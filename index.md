@@ -1,3 +1,9 @@
+---
+layout: page
+title: Selected Publications
+permalink: /index/
+---
+
 *Advancing economic and financial research by Vietnam‑focused economists*
 
 ---
