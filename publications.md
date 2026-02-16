@@ -1,3 +1,9 @@
+---
+layout: page
+title: Selected Publications
+permalink: /publications/
+---
+
 # Selected Publications
 
 This page highlights selected academic publications by members of the **Vietnam Observatory on Economics and Finance (VOEF)**. These publications appear in top general‑interest, top field journals and leading international peer‑reviewed journals in economics and finance, as well as high‑impact multidisciplinary outlets. 
