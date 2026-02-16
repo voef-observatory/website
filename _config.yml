@@ -1,3 +1,6 @@
+baseurl: ""
+url: "https://voef-observatory.github.io"
+
 title: Vietnam Observatory on Economics and Finance (VOEF)
 description: Advancing economic and financial research by Vietnam-focused economists
 theme: minima
