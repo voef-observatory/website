@@ -10,7 +10,8 @@ This page highlights selected academic publications by members of the **Vietnam 
 
 **Forthcoming**
 
-- **Pham, N.-S.**, Toda, A. A. Comment on “Asset Bubbles and Overlapping Generations”, *Econometrica*.
+- **Pham, N.-S.**, Toda, A. A. "Comment on “Asset Bubbles and Overlapping Generations”", *Econometrica*.
+- Massin, S., **Nguyen-Van, P.**, Dubois, D.,  Willinger, M., Ventelou V. "Hysteresis in addictive consumption depends on time preferences". *Theory and Decsion*. https://doi.org/10.1007/s11238-025-10072-w
 
 **2026**
 
@@ -58,12 +59,12 @@ This page highlights selected academic publications by members of the **Vietnam 
 - Dubois D., Farolfi S., **Nguyen-Van P.**, Rouchier J. (2020), "Contrasting effects of information sharing on CPR extraction behaviour: Experimental findings", *PLOS ONE*, 15(10): e0240212.
 - Lampach N., **Nguyen-Van P.**, To-The N. (2020), "Robustness analysis of organic technology adoption: Evidence from Northern Vietnamese tea production", *European Review of Agricultural Economics*, 47(2), 529-557.
 - **Pham, N.-S.**, **Pham, T.K.C.** (2020). Effects of foreign aid on the recipient country’s economic growth, *Journal of Mathematical Economics*, Vol. 86, 52-68.
+- Lawson L.A., **Nguyen-Van P.** (2020), "Is a peaceful cohabitation between living species possible? An empirical analysis on the drivers of threatened species", *Global Ecology and Conservation*, 23, e01043.
 
 **2019**
 
 - Dicharry B., **Nguyen-Van P.**, **Pham T.K.C.** (2019), "`The winner takes it all' or a story of the optimal allocation of the European Cohesion Fund", *European Journal of Political Economy* 59, 385-399.
-- **Cuong Le Van**, Paulina Navrouzoglou, Yiannis Vailakis (2019), On endogenous formation of price expectations,
-*Games and Economic Behavior*, Volume 115, Pages 436-458. https://doi.org/10.1016/j.geb.2019.03.004
+- **Cuong Le Van**, Paulina Navrouzoglou, Yiannis Vailakis (2019), On endogenous formation of price expectations, *Games and Economic Behavior*, Volume 115, Pages 436-458. https://doi.org/10.1016/j.geb.2019.03.004
 - **Le Van C.**, **Nguyen-Van P.**, Barbier-Gauchard A., Le D.A. (2019), "Government expenditure, external and domestic public debt, and economic growth", *Journal of Public Economic Theory* 21(1), 116-134.
 - **Nguyen-Van P.**, Poiraud C., N. To-The (2017), "Modeling farmers' decisions on tea varieties: A multinomial logit analysis", *Agricultural Economics* 48(3), 291-299.
 
@@ -105,6 +106,12 @@ This page highlights selected academic publications by members of the **Vietnam 
 **2012**
 
 - Goenka, Aditya & **Le Van, Cuong** & Nguyen, Manh-Hung (2012). "Existence Of Competitive Equilibrium In An Optimal Growth Model With Heterogeneous Agents And Endogenous Leisure," *Macroeconomic Dynamics*, vol. 16(S1), pages 33-51.
+- Dubois D., Willinger M., **Nguyen-Van P.** (2012), "Optimization incentive and relative riskiness in experimental stag-hunt games", *International Journal of Game Theory* 41(2), 369-380
+
+**2011**
+
+- Selman Erol, **Cuong Le Van**, Cagri Saglam (2011), Existence, optimality and dynamics of equilibria with endogenous time preference, *Journal of Mathematical Economics*, Volume 47, Issue 2, Pages 170-179. https://doi.org/10.1016/j.jmateco.2010.12.006.
+- Erol Dogan, **Cuong Le Van**, Cagri Saglam (2011), Optimal timing of regime switching in optimal growth models: A Sobolev space approach, *Mathematical Social Sciences*, Volume 61, Issue 2, Pages 97-103. https://doi.org/10.1016/j.mathsocsci.2010.11.005
 
 **2010**
 
