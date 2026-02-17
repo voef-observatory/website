@@ -2,26 +2,22 @@
 ---
 
 @import "minima";
-
 .site-header .wrapper {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-
 /* Bloc gauche : titre + menu vertical */
 .site-header .wrapper > div:first-child {
   display: flex;
   flex-direction: column;
 }
-
 /* Navigation en colonne */
 .site-nav {
   display: flex;
   flex-direction: column;
   margin-top: 10px;
 }
-
 /* Logo à droite */
 .site-header .wrapper::after {
   content: "";
