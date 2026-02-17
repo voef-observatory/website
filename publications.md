@@ -30,7 +30,8 @@ This page highlights selected academic publications by members of the **Vietnam 
 - G. Bloise, **C. Le Van**, Y. Vailakis (2024), An approximation approach to dynamic programming with unbounded returns, *Journal of Mathematical Economics*, Volume 111, 102954. https://doi.org/10.1016/j.jmateco.2024.102954.
 - Stefano Bosi, Carmen Camacho, **Cuong Le Van** (2024), A model of growth with living capital, *Journal of Mathematical Economics*, Volume 113, 103018. https://doi.org/10.1016/j.jmateco.2024.103018.
 - Pham, H.H., **Pham, N.-S.** (2024). Effects of Wariness on Economic Growth in Overlapping Generations Models. *Journal of Mathematical Economics*, Vol. 115, 103060.
-- **Nguyen-Huu, T.T.**, **Pham N.-S.** (2024). FDI spillovers, New Industry Development, and Economic Growth. *Journal of Public Economic Theory*, Volume26, Issue 1, e12670. 
+- **Nguyen-Huu, T.T.**, **Pham N.-S.** (2024). FDI spillovers, New Industry Development, and Economic Growth. *Journal of Public Economic Theory*, Volume26, Issue 1, e12670.
+- **Nguyen-Huu, T. T.** (2024). FDI spillovers and productivity in Vietnamese manufacturing industries - new insights from the unconditional quantile regression. *Post-Communist Economies*, 36(1), 105–125. https://doi.org/10.1080/14631377.2023.2238158
 
 
 **2023**
@@ -64,6 +65,7 @@ This page highlights selected academic publications by members of the **Vietnam 
 **2019**
 
 - Dicharry B., **Nguyen-Van P.**, **Pham T.K.C.** (2019), "`The winner takes it all' or a story of the optimal allocation of the European Cohesion Fund", *European Journal of Political Economy* 59, 385-399.
+- Didisse, J., **Nguyen-Huu, T. T.**, & Tran, T. A. D. (2019). The Long Walk to Knowledge: On the Determinants of Higher Education Mobility to Europe. *The Journal of Development Studies*, 55(6), 1099–1120. https://doi.org/10.1080/00220388.2018.1475647
 - **Cuong Le Van**, Paulina Navrouzoglou, Yiannis Vailakis (2019), On endogenous formation of price expectations, *Games and Economic Behavior*, Volume 115, Pages 436-458. https://doi.org/10.1016/j.geb.2019.03.004
 - **Le Van C.**, **Nguyen-Van P.**, Barbier-Gauchard A., Le D.A. (2019), "Government expenditure, external and domestic public debt, and economic growth", *Journal of Public Economic Theory* 21(1), 116-134.
 - **Nguyen-Van P.**, Poiraud C., N. To-The (2017), "Modeling farmers' decisions on tea varieties: A multinomial logit analysis", *Agricultural Economics* 48(3), 291-299.
