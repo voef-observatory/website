@@ -1,12 +1,9 @@
 title: Vietnam Observatory on Economics and Finance (VOEF)
 description: Advancing economic and financial research by Vietnam-focused economists
-
 theme: minima
-
 header_pages:
   - index.md
   - publications.md
   - media.md
   - projects.md
-
 head_extra: <link rel="stylesheet" href="/style.css">
