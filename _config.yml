@@ -6,4 +6,4 @@ header_pages:
   - publications.md
   - media.md
   - projects.md
-head_extra: <link rel="stylesheet" href="/style.css">
+head_extra: <link rel="stylesheet" href="/main.scss">
