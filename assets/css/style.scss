@@ -7,17 +7,22 @@
   background-image: url("/assets/images/VOEF-logo-rouge.png");
   background-size: cover;
   background-position: center;
-  height: 220px;
-  display: flex;
-  align-items: center;
+  height: 240px;
+  position: relative;
 }
 
-/* Titre en blanc */
+.site-header::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 50, 0.5);
+}
+
 .site-title {
+  position: relative;
   color: white !important;
-  font-weight: bold;
-  font-size: 28px;
-  text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
+  font-size: 30px;
+  font-weight: 600;
 }
 
 /* Couleur des titres */
