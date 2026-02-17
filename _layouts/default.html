@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/main.scss' | relative_url }}">
+</head>
+<body>
+  <div class="site-container">
+    <!-- Header avec logo à droite -->
+    <header class="site-header">
+      <div class="header-content">
+        <div class="header-title">
+          <h1>{{ site.title }}</h1>
+          <p class="site-subtitle">{{ site.description }}</p>
+        </div>
+        <div class="header-logo">
+          <img src="{{ '/assets/images/VOEF-logo-rouge.png' | relative_url }}" alt="VOEF Logo">
+        </div>
+      </div>
+    </header>
 
+    <div class="site-body">
+      <!-- Sidebar à gauche avec navigation -->
+      <aside class="site-sidebar">
+        <nav class="sidebar-nav">
+          <ul>
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/publications.html' | relative_url }}">Selected Publications</a></li>
+            <li><a href="{{ '/media.html' | relative_url }}">Press Articles & Interviews</a></li>
+            <li><a href="{{ '/projects.html' | relative_url }}">Research & Consultancy Projects</a></li>
+          </ul>
+        </nav>
+      </aside>
+
+      <!-- Contenu principal -->
+      <main class="site-content">
+        {{ content }}
+      </main>
+    </div>
+
+    <footer class="site-footer">
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+    </footer>
+  </div>
+</body>
+</html>
