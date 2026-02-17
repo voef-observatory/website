@@ -2,7 +2,6 @@
 ---
 
 @import "minima";
-
 body {
   background-color: red !important;
 }
