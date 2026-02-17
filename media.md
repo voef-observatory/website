@@ -4,9 +4,7 @@ title: Press Articles & Interviews
 permalink: /media/
 ---
 
----
 # Press Articles
-
 
 - **Nguyễn Văn Phú**, Tô Thế Nguyên (2026), "[Dự báo tăng trưởng kinh tế Việt Nam năm 2026, triển vọng cho tăng trưởng 2 con số](https://anninhthudo.vn/du-bao-tang-truong-kinh-te-viet-nam-nam-2026-trien-vong-cho-tang-truong-2-con-so-post636857.antd)", *An Ninh Thủ Đô*, 30.01.2026.
 - **Nguyễn Văn Phú**, **Phạm Thị Kim Cương**, Tô Thế Nguyên (2025), "[Kết nối doanh nghiệp và đại học: Thúc đẩy nghiên cứu ứng dụng](https://thanhnien.vn/ket-noi-doanh-nghiep-va-dai-hoc-thuc-day-nghien-cuu-ung-dung-185251211094214585.htm)", *Thanh Niên*, 11.12.2025
