@@ -21,15 +21,25 @@
   display: none; /* cacher le titre texte si inutile */
 }
 
-.site-header .wrapper::before {
-  content: "";
-  display: block;
-  width: 220px;
-  height: 120px;
-  margin-bottom: 20px;
+/* ============================= */
+/* ===== LOGO CLIQUABLE ======= */
+/* ============================= */
+
+.site-title {
+  margin: 0 auto 20px auto;
+  text-align: center;
+}
+
+.site-title a {
+  display: inline-block;
+  width: 400px;  /* ajuste taille ici */
+  height: 200px;
 
   background: url("/assets/images/Obs-logo-green.png") no-repeat center;
   background-size: contain;
+
+  text-indent: -9999px;  /* cache le texte */
+  overflow: hidden;
 }
 
 /* ============================= */
