@@ -57,11 +57,13 @@
   content: "";
   grid-column: 2;
   grid-row: 2;
-  align-self: center;      /* vertical alignment with menu */
+
+  align-self: stretch;     /* ✅ prend toute la hauteur */
   justify-self: end;
-  display: block;
-  width: 260px;
-  height: 4.5em; /* =3 lignes */
+
+  width: 100%;             /* prend toute la largeur de la colonne droite */
+  height: 100%;            /* ✅ prend toute la hauteur de la ligne */
+
   background: url("/assets/images/Obs-logo-green.png") no-repeat center;
   background-size: contain;
 }
