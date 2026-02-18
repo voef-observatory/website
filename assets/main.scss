@@ -24,44 +24,33 @@
   font-weight: 600;
 }
 
-/* ============================= */
 /* ===== LOWER HEADER AREA ===== */
-/* ============================= */
 
 .header-bottom {
   display: flex;
   justify-content: space-between;
-  align-items: stretch; /* important for full-height logo */
+  align-items: flex-start;   /* ✅ aligne logo et menu en haut */
 }
 
-/* ============================= */
-/* ===== LEFT: MENU COLUMN ===== */
-/* ============================= */
+/* ===== LEFT: MENU ===== */
 
 .site-nav {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
 }
 
-.site-nav .page-link {
-  display: block;        /* one link per line */
-  margin-bottom: 10px;
-  white-space: nowrap;   /* keep each link on one line */
-}
-
-/* ===== RIGHT: LOGO =========== */
+/* ===== RIGHT: LOGO ===== */
 
 .header-logo {
   display: flex;
-  align-items: center;   /* centre verticalement */
+  align-items: flex-start;   /* ✅ même niveau que le menu */
 }
 
 .header-logo img {
-  max-height: 100%;      /* ne dépasse pas la hauteur du menu */
   height: auto;
+  max-height: 100%;
   width: auto;
-  object-fit: contain;
+  display: block;
 }
 
 /* ============================= */
