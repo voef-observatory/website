@@ -82,6 +82,11 @@
   display: none;
 }
 
+/* Empêcher duplication éventuelle */
+.home .site-footer::after {
+  content: none;
+}
+
 /* Style général du footer */
 .site-footer {
   margin-top: 80px;
