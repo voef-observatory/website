@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
 ---
 
 # Vietnam Observatory on Economics and Finance (VOEF)
