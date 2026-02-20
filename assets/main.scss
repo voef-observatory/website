@@ -24,7 +24,7 @@
 
 /* Dans Minima, .site-title EST le lien */
 .site-title {
-  width: 100%;
+  width: 90%;
   height: 200px;   /* logo grand (≥ moitié bannière) */
 
   background-image: url("{{ '/assets/images/Obs-logo-green_clean.png' | relative_url }}");
