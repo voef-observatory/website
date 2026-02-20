@@ -53,11 +53,9 @@ The founding members of the Observatory are:
 - [Pham Ngoc Sang](https://phamns.wordpress.com/), Professor, Métis Lab, EM Normandy Business School
 - [Pham Thi Kim Cuong](https://economix.fr/fr/membre/pham-thi-kim-cuong), Professor, EconomiX, CNRS & Paris Nanterre University
 
+---
+
 ## Contact
 
 For inquiries, collaboration, or contributions, please contact:
 📧 **pnguyenvan(@)parisnanterre.fr** *(Phu Nguyen-Van, PhD)*
-
----
-
-© Vietnam Observatory on Economics and Finance (VOEF)
