@@ -65,6 +65,15 @@
 }
 
 /* ============================= */
+/* ===== MASQUER "HOME" ======== */
+/* ============================= */
+
+/* Cache le titre "Home" uniquement sur la page d'accueil */
+.home .page-heading {
+  display: none;
+}
+
+/* ============================= */
 /* ===== MOBILE VERSION ======== */
 /* ============================= */
 
