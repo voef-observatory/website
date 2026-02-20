@@ -74,6 +74,46 @@
 }
 
 /* ============================= */
+/* ===== FOOTER PERSONNALISÉ === */
+/* ============================= */
+
+/* ============================= */
+/* ===== FOOTER ACADÉMIQUE ===== */
+/* ============================= */
+
+/* Masquer le contenu par défaut de Minima */
+.site-footer .wrapper {
+  display: none;
+}
+
+/* Style général du footer */
+.site-footer {
+  margin-top: 80px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+  position: relative;
+}
+
+/* Ligne fine élégante */
+.site-footer::before {
+  content: "";
+  display: block;
+  width: 60%;
+  margin: 0 auto 20px auto;
+  border-top: 1px solid #e5e5e5;
+}
+
+/* Texte */
+.site-footer::after {
+  content: "© " attr(data-year) " Vietnam Observatory on Economics and Finance (VOEF)";
+  display: block;
+  font-size: 12px;
+  letter-spacing: 0.5px;
+  color: #777;
+}
+
+/* ============================= */
 /* ===== MOBILE VERSION ======== */
 /* ============================= */
 
