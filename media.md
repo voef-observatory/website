@@ -25,8 +25,10 @@ permalink: /media/
 - [TSKH Phạm Thị Kim Cương chỉ ra cơ hội Việt Nam có thể nắm bắt để hướng ra thế giới theo làn sóng tiêu dùng bền vững](https://doisongphapluat.nguoiduatin.vn/tskh-pham-thi-kim-cuong-chi-ra-co-hoi-viet-nam-co-the-nam-bat-de-huong-ra-the-gioi-theo-lan-song-tieu-dung-ben-vung-a570011.html), *Đời Sống và Pháp Luật*, 11.9.2025. (**Phạm Thị Kim Cương**)
 - [Macron courts Southeast Asia in bid to counterbalance superpowers](https://www.courthousenews.com/macron-courts-southeast-asia-in-bid-to-counterbalance-superpowers/), *Courthouse News*, 30.5.2025.(**Nguyễn Văn Phú**)
 - [Les raisons du déplacement d'Emmanuel Macron en Asie du Sud Est](https://www.rcf.fr/articles/actualite/les-raisons-du-deplacement-demmanuel-macron-en-asie-du-sud-est), *RCF-Radio Notre Dame*, 28.5.2025. (**Nguyễn Văn Phú**)
-- [Hai yếu tố quyết định cho sự tái 'khởi động' của TP.HCM](https://doanhnhantrevietnam.vn/hai-yeu-to-quyet-dinh-cho-su-tai-khoi-dong-cua-tphcm-d10010.html), *Doanh Nhan Tre Vietnam*, 15.9.2021. (**Nguyễn Văn Phú**)
-- [‘Việt Nam cần đa dạng hóa thị trường xuất khẩu, tránh phụ thuộc Trung Quốc’](https://thesaigontimes.vn/viet-nam-can-da-dang-hoa-thi-truong-xuat-khau-tranh-phu-thuoc-trung-quoc/), *Kinh Te Sai Gon*, 6.5.2020. (**Nguyễn Văn Phú**)
+- [Hai yếu tố quyết định cho sự tái 'khởi động' của TP.HCM](https://doanhnhantrevietnam.vn/hai-yeu-to-quyet-dinh-cho-su-tai-khoi-dong-cua-tphcm-d10010.html), *Doanh Nhan Trẻ Việt Nam*, 15.9.2021. (**Nguyễn Văn Phú**)
+- [‘Việt Nam cần đa dạng hóa thị trường xuất khẩu, tránh phụ thuộc Trung Quốc’](https://thesaigontimes.vn/viet-nam-can-da-dang-hoa-thi-truong-xuat-khau-tranh-phu-thuoc-trung-quoc/), *Kinh Tế Sài Gòn*, 6.5.2020. (**Nguyễn Văn Phú**)
+- [Mục tiêu 'Make in Vietnam' khả thi tới mức nào đây?](https://www.bbc.com/vietnamese/vietnam-49067928), *BBC Vietnamese*, 25.7.2019. (**Nguyễn Văn Phú**)
 - [Hiệp định Thương mại Việt Nam – EU sắp ký, lợi ích ‘khổng lồ’](https://www.bbc.com/vietnamese/vietnam-48660429), *BBC Vietnamese*, 25.6.2019. (**Nguyễn Văn Phú**)
 - [Thực hư cáo buộc 'đối tượng xấu lợi dụng tăng giá điện gây mất trật tự'](https://www.bbc.com/vietnamese/vietnam-48197366), *BBC Vietnamese*, 9.5.2019. (**Nguyễn Văn Phú**)
+- [Vết thương môi trường không thể tái tạo](http://nhipcaudautu.vn/lanh-dao/ceo-viet/vet-thuong-moi-truong-khong-the-tai-tao-3315411/), *Nhịp Cầu Đầu Tư*, 15.8.2016. (**Nguyễn Văn Phú**)
 
